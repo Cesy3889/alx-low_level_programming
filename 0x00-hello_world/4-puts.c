@@ -1,4 +1,5 @@
 #include <studio.h>
+
 /**
 *Declaration: main - prints out a string to stdout
 *Return : 0 if success
