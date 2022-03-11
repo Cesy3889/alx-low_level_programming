@@ -1,4 +1,4 @@
-[10:05 PM, 3/11/2022] Mary Comp: #include <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 /**
