@@ -2,6 +2,6 @@
 int main()
 {
 
-printf("purchar");
+printf("_putchar\n");
 return 0;
 }
