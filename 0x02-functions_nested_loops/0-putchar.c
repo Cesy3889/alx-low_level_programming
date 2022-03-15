@@ -1,13 +1,7 @@
-#include <stdio.h>
-#include <conio.h>
-void main() {
-int c;
+#include<stdio.h>
+int main()
+{
 
-c = getchar();
-while (c != EOF) {
-    putchar(c);
-    c = getchar();
- }
+printf("purchar");
 return 0;
 }
-
