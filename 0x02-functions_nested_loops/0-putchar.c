@@ -1,5 +1,5 @@
-include <stdio.h>
-
+#include <stdio.h>
+#include <conio.h>
 void main() {
 int c;
 
@@ -8,5 +8,6 @@ while (c != EOF) {
     putchar(c);
     c = getchar();
  }
+return 0;
 }
 
