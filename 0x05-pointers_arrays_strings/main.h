@@ -16,3 +16,5 @@ int _putchar(char c)
 	return (write(1, &c, 1));
 }
 void rev_string(char *s);
+void print_rev(char *s);
+void puts2(char *str);
